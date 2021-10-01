@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\Contato.deps.json
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\Contato.runtimeconfig.json
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\Contato.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\Contato.dll
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\ref\Contato.dll
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\bin\Debug\net5.0\Contato.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.dll
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\ref\Contato.dll
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\TesteEF\Contato\obj\Debug\net5.0\Contato.genruntimeconfig.cache
