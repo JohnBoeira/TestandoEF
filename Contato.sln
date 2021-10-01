@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contato", "Contato.csproj", "{D18B6647-B845-419C-BA73-4B50B758C4C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contato", "Contato.csproj", "{D18B6647-B845-419C-BA73-4B50B758C4C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contato.ConsoleApp", "..\Contato.ConsoleApp\Contato.ConsoleApp.csproj", "{1586722D-9859-477D-A230-C7F44B578097}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contato.ConsoleApp", "..\Contato.ConsoleApp\Contato.ConsoleApp.csproj", "{1586722D-9859-477D-A230-C7F44B578097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
