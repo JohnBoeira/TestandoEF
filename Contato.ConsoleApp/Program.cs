@@ -49,9 +49,6 @@ namespace Contato.ConsoleApp
             
             telefoneContatoContext.Entry(contatoVeio).CurrentValues.SetValues(contatoNovo);
 
-            //telefoneContatoContext.Contatos.Update(contatoVeio);            
-            //telefoneContatoContext.Contatos.Attach(contatoVeio);            
-
         }
         public static void ExcluirContato(int id)
         {
